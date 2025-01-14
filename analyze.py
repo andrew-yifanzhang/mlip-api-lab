@@ -6,7 +6,7 @@ import time
 import os
 from dotenv import load_dotenv
 
-# Load environment variables from a .env file
+# Load environment variables from .env file
 load_dotenv()
 
 # Get credentials from environment variables
